@@ -13,8 +13,8 @@
 #define dH 20
 #define dL 10
 
-#define HEIGHT (1080/dH)
-#define WIDTH (1920/dL)
+#define HEIGHT (600/dH)
+#define WIDTH (800/dL)
 
 #define longueur_serpent_max  ((HEIGHT-2)*(WIDTH-2))
 COORD Serp[longueur_serpent_max];
