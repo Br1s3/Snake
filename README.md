@@ -9,8 +9,10 @@ $ ./snake
 ```
 
 ## This is the menu :
+
 > 'z' to move up
 > 'q' to move left
+
 > 'd' to move right
 > 's' to mode down.
 
